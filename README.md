@@ -1,4 +1,5 @@
 # rdandconsulting-website
+https://scottdialo.github.io/rdandconsulting-website/
 
 Future improvement:
  -  Implement Stripe api to accept payment
