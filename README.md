@@ -1,5 +1,6 @@
 # rdandconsulting-website
 https://scottdialo.github.io/rdandconsulting-website/
+- This site is very responsive using the grid layout.
 
 Future improvement:
  -  Implement Stripe api to accept payment
