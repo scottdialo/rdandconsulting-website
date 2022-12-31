@@ -236,7 +236,7 @@ sup {
 
 /* media queries */
 
-@media (max-width: 700px) {
+@media (max-width: 830px) {
   .menu-btn {
     display: block;
   }
@@ -303,3 +303,4 @@ sup {
     margin: 0 auto;
   }
 }
+@media (max);
